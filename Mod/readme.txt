@@ -1,0 +1,1 @@
+-run MD5 Changer.exe on injector every once in a while to stay safe
